@@ -5,4 +5,3 @@ if a%2 == 0:
 else:
     print("Odd number", a)
     print(a,"is not the multiple of 2")
-    
